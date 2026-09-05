@@ -80,7 +80,7 @@ Data Analysis ───────→ Intelligent Systems
 Prediction                  AI Applications
         ↓                       ↓
 Automation ─────────────→ Real-World Solutions
-
+---
 
 - 🧠 AI & Machine Learning
 - 📊 Data Analysis & Prediction
@@ -93,50 +93,89 @@ Automation ─────────────→ Real-World Solutions
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>---
-
-🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>---
-
-🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>---
-
-🎯 My Goal
-
-«Learn → Build → Solve → Improve»
-
-I want to use technology not just to create applications, but to solve real-world problems using intelligent and innovative solutions.
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=barani-18&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+    alt="GitHub Stats"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barani-18&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
-🤝 Connect With Me
+## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=barani-18&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/barani-18/barani-18/output/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake"
+  />
+</p>
+
+---
+
+## 🎯 My Goal
+
+### Learn → Build → Solve → Improve
+
+I want to use technology not just to create applications, but to solve **real-world problems using intelligent and innovative solutions.**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/barani-18">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+    />
   </a>
+  
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
-</p>---
+</p>
 
-👀 Profile Visitors
+---
+
+## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
-</p>---
+  <img 
+    src="https://komarev.com/ghpvc/?username=barani-18&style=for-the-badge&color=blue" 
+    alt="Profile Visitors"
+  />
+</p>
 
-<h3 align="center">💡 Building ideas. Solving problems. Learning every day.</h3><p align="center">
+---
+
+<h3 align="center">
+  💡 Building ideas. Solving problems. Learning every day.
+</h3>
+
+<p align="center">
   ⭐ If you find my projects interesting, consider starring them!
 </p>
