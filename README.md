@@ -80,9 +80,7 @@ Data Analysis ───────→ Intelligent Systems
 Prediction                  AI Applications
         ↓                       ↓
 Automation ─────────────→ Real-World Solutions
-```text
-
----
+```
 
 - 🧠 AI & Machine Learning
 - 📊 Data Analysis & Prediction
@@ -103,7 +101,6 @@ Automation ─────────────→ Real-World Solutions
     height="170"
     alt="GitHub Stats"
   />
-  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=barani-18&layout=compact&theme=tokyonight&hide_border=true" 
     height="170"
@@ -152,7 +149,7 @@ I want to use technology not just to create applications, but to solve **real-wo
       alt="GitHub"
     />
   </a>
-  
+
   <a href="https://www.linkedin.com/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
