@@ -93,22 +93,15 @@ Automation ─────────────→ Real-World Solutions
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=barani-18&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=barani-18&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=barani-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barani-18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🔥 Contribution Streak
 
@@ -116,17 +109,6 @@ Automation ─────────────→ Real-World Solutions
   <img 
     src="https://streak-stats.demolab.com?user=barani-18&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/barani-18/barani-18/output/github-contribution-grid-snake.svg" 
-    alt="Contribution Snake"
   />
 </p>
 
