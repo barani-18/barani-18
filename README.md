@@ -80,8 +80,8 @@ Data Analysis ───────→ Intelligent Systems
 Prediction                  AI Applications
         ↓                       ↓
 Automation ─────────────→ Real-World Solutions
+```text
 
-'''
 ---
 
 - 🧠 AI & Machine Learning
